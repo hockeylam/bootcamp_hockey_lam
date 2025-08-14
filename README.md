@@ -6,6 +6,7 @@ The goal of this project is to automate trading strategies to be executed percis
 In order to achieve success in this project, trading strategies will be backtested and compared to the growth of the SPY. Should a strategy score higher returns than the SPY, project sucess is achieved.
 ## Stakeholder & User
 This project is academic and self driven. Depending on the results of algorithmic paper trading, I may personally deploy with my own IB account.
+Stakeholder artifacts of this project will be graphic representations of different strategy's P/L over time.
 ## Useful Answer & Decision
 Useful extractions from the project are the strategies which are shown (not proven) to be profitable using historic data. These strategies come in python files indicating logic and data processing.
 ## Assumptions & Constraints
