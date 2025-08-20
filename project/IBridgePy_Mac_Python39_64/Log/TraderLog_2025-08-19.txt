@@ -1,0 +1,118 @@
+2025-08-19 17:23:54.338687-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.343148-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.344281-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.345426-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.346395-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.347582-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.348579-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.349715-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:23:54.355043-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.672032-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.676095-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.677151-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.678250-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.679205-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.680315-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.681300-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.682351-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:28.684465-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.693049-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.704409-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.708514-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.711907-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.714384-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.716618-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.718634-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.720810-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:42:38.722898-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.931901-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.936075-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.937108-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.938314-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.939480-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.940704-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.941692-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.942759-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:37.944944-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.953288-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.965287-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.969222-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.973677-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.976659-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.979392-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.981419-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.983567-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:47.985306-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:57.993774-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.001285-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.007690-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.014038-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.018016-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.022209-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.025420-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.028302-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:45:58.030795-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.039153-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.046107-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.049599-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.054178-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.058495-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.061513-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.064011-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.065656-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:08.066682-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.073699-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.078553-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.083783-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.088457-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.092326-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.095937-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.097828-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.099876-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:18.101343-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.107378-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.115476-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.120852-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.125539-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.128840-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.132293-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.135756-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.138804-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:28.141530-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:38.148375-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:38.154170-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:38.158345-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:46:40.270056-04:00: Connected to Interactive Brokers
+2025-08-19 17:46:42.275113-04:00: IBridgePy version 22.1.3
+2025-08-19 17:46:42.275854-04:00: fileName = example_show_positions.py
+2025-08-19 17:46:42.519034-04:00: ####    Starting to initialize trader    ####
+2025-08-19 17:46:42.519406-04:00: ##    ACCOUNT Balance  DUH722469  ##
+2025-08-19 17:46:42.519596-04:00: CASH=1018570.59
+2025-08-19 17:46:42.519652-04:00: portfolio_value=1020393.29
+2025-08-19 17:46:42.519714-04:00: positions_value=0.0
+2025-08-19 17:46:42.519768-04:00: ##    NO ANY POSITION    ##
+2025-08-19 17:46:42.519817-04:00: ##    NO any order    ##
+2025-08-19 17:46:42.519856-04:00: ####    Initialize trader COMPLETED    ####
+2025-08-19 17:46:42.519992-04:00: ##    ACCOUNT Balance  DUH722469  ##
+2025-08-19 17:46:42.520037-04:00: CASH=1018570.59
+2025-08-19 17:46:42.520078-04:00: portfolio_value=1020393.29
+2025-08-19 17:46:42.520116-04:00: positions_value=0.0
+2025-08-19 17:46:42.520161-04:00: ##    NO ANY POSITION    ##
+2025-08-19 17:46:42.520212-04:00: ##    NO any order    ##
+2025-08-19 17:46:43.025731-04:00: example_show_positions.py END
+2025-08-19 17:58:13.032376-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:58:13.036557-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:58:13.037571-04:00: Try to get connected to Interactive Brokers
+2025-08-19 17:58:15.063101-04:00: Connected to Interactive Brokers
+2025-08-19 17:58:17.070395-04:00: IBridgePy version 22.1.3
+2025-08-19 17:58:17.071423-04:00: fileName = sample_aapl.py
+2025-08-19 17:58:17.191955-04:00: ####    Starting to initialize trader    ####
+2025-08-19 17:58:17.192199-04:00: ##    ACCOUNT Balance  DUH722469  ##
+2025-08-19 17:58:17.192456-04:00: CASH=1018570.59
+2025-08-19 17:58:17.192508-04:00: portfolio_value=1020393.29
+2025-08-19 17:58:17.192556-04:00: positions_value=0.0
+2025-08-19 17:58:17.192613-04:00: ##    NO ANY POSITION    ##
+2025-08-19 17:58:17.192664-04:00: ##    NO any order    ##
+2025-08-19 17:58:17.192709-04:00: ####    Initialize trader COMPLETED    ####
+2025-08-19 17:58:17.417459-04:00: broker_client_factory.CallBacks::error: errorId=4 errorCode=10089 errorMessage=Requested market data requires additional subscription for API. See link in 'Market Data Connections' dialog for more details.Delayed market data is available.AAPL NASDAQ.NMS/TOP/ALL advancedOrderRejectJson=
+2025-08-19 17:58:17.417713-04:00: IBridgePy version= 22.1.3

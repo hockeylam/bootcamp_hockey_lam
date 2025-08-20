@@ -1,0 +1,7 @@
+numpy                ==1.23.5
+scipy                ==1.5.4
+matplotlib           ==3.3.4
+multitasking         ==0.0.9
+pytz                 ==2013.7
+pandas               ==1.5.2
+requests             ==2.22.0
