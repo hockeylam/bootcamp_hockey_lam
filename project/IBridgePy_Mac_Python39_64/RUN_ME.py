@@ -15,7 +15,7 @@ All rights reserved.
 """
 from configuration import run_me
 
-fileName = 'sample_aapl.py'
+fileName = 'backtest_see_closing_price.py'
 # fileName = 'example_get_historical_data.py'
 # fileName = 'example_show_real_time_prices.py'
 # fileName = 'example_place_order.py'

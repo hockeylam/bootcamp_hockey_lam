@@ -34,3 +34,14 @@ Goal → Stage → Deliverable
 
 ## Repo Plan
 /data/, /src/, /notebooks/, /docs/ ; cadence for updates
+
+
+## Homwwork Grading locations
+
+Dear TA, due to instructions around homwork folder stucture still being unclear to me, I thought I should include some explaination of how I did my work.
+
+Essentially all of my work for a specific homework is within its own homwwork folder, if they told me to make a directory, or change the README, There should be a copy of a the directory or a README.md within the specific homework folder. I understand this is really redundant and very much not standard SWE practice, but its the best interpretation I have on the homework instructions as they are conflicting with what professors and other GAs are saying.
+
+Therefore, please look inside the folder of the homework for each of them, ignore the directoried of notebook or src .env. The only relevant piece in the root directory is the requirements.txt, and the .gitignore.
+
+
