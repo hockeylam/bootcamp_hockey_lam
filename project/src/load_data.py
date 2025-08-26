@@ -39,3 +39,17 @@ def get_data(ticker: str, interval: str = '1d', lookback_days: int = 756) -> pd.
 
 #df = get_data("SPY","1d",756)
 #print_data_summary(df)
+
+
+def flag_outliers_change(df: pd.DataFrame, threshold: float = 3.0) -> pd.DataFrame:
+    """
+    Flags outliers in z score method, I do not want to remove any entries
+    """
+    df = df.copy()
+
+    mean = df['change'].mean()
+    std = df['change'].std()
+    z_scores = (df['change'] - mean) / std
+    df['change_outlier'] = z_scores.abs() > threshold
+
+    return df
