@@ -30,17 +30,6 @@ def get_data(ticker: str, interval: str = '1d', lookback_days: int = 756) -> pd.
     return df
 
 
-#def print_data_summary(df):
-#    print("\n=== Data Summary ===")
-#   print(f"Rows: {len(df)}")
-#    print(f"Columns: {list(df.columns)}")
-#    print("\nHead:")
-#    print(df.head())
-
-#df = get_data("SPY","1d",756)
-#print_data_summary(df)
-
-
 def flag_outliers_change(df: pd.DataFrame, threshold: float = 3.0) -> pd.DataFrame:
     """
     Flags outliers in z score method, I do not want to remove any entries

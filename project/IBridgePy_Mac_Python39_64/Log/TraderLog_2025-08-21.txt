@@ -1,3 +1,0 @@
-2025-08-21 11:46:34.851094-04:00: broker_client_factory.CallBacks::error: errorId=-1 errorCode=977 errorMessage=Please download the latest version of IBridgePy at www.IBridgePy.com For any questions, you may send email to IBridgePy@gmail.com, Thanks advancedOrderRejectJson=
-2025-08-21 11:46:34.851318-04:00: Hint: Please refer to YouTube tutorial https://youtu.be/pson8T5ZaRw
-2025-08-21 11:46:34.851374-04:00: EXIT IBridgePy version= 22.1.3

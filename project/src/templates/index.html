@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction App</title>
+</head>
+<body>
+    <h2>Enter Open Price</h2>
+    <form method="POST">
+        <input type="text" name="open_price" required>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+        <h3>Prediction Result: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
