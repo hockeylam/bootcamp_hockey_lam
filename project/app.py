@@ -1,11 +1,11 @@
 from flask import Flask, request, render_template
 import joblib
 import os
-from regression import run_prediction
+from src.regression import run_prediction
 
 app = Flask(__name__)
 
-model_path = os.path.join(os.path.dirname(__file__), '..', 'model', 'linear_model.pkl')
+model_path = os.path.join(os.path.dirname(__file__), 'model', 'linear_model.pkl')
 model = joblib.load(model_path)
 
 features = ['open', 'days_sequence']
