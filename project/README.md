@@ -33,11 +33,11 @@ Goal → Stage → Deliverable
 - flag outliers → outlier testing → code in main.py
 - Make Strategies → modeling → code in strategies.py
 - Test strategies → modeling → backtesting.py, artifact.py
-- Filter Strategies → modeling → artifact.py comparison
+- Filter Strategies → modeling / exploratory data analysis→ artifact.py comparison
 - Prediction algorithm → linear regression → linear_model.pkl, regression.py
 - Flask API → productization → app.py and running app
-- freeze requirements → project set up → requirements.txt
-- Documentations → deliverables → reports folder/readme
+- freeze requirements → tooling setup → requirements.txt
+- Documentations → shareholder communication → reports folder/readme
 
 ## Repo Plan
 /data/, /src/, /notebooks/, /docs/ ; cadence for updates
